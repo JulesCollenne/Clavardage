@@ -1,0 +1,2 @@
+master = localhost 12345
+peer = localhost 1234
